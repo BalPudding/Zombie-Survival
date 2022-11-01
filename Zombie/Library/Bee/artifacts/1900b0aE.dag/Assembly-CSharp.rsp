@@ -363,8 +363,11 @@
 "Assets/01.Scripts/HealthPack.cs"
 "Assets/01.Scripts/IDamageable.cs"
 "Assets/01.Scripts/Iitem.cs"
+"Assets/01.Scripts/LivingEntity.cs"
 "Assets/01.Scripts/PlayerInput.cs"
 "Assets/01.Scripts/PlayerMovement.cs"
+"Assets/01.Scripts/PlayerShooter.cs"
+"Assets/01.Scripts/UIManager.cs"
 -langversion:9.0
 
 /deterministic
